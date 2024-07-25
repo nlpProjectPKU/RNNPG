@@ -1,7 +1,7 @@
 pypi_kenlm==0.1.20190403
 numpy==1.22.0
 torchtext==0.5.1
-torch==1.2.0
+torch==2.2.0
 kenlm==0.0.0
 tqdm==4.43.0
 sklearn==0.0
